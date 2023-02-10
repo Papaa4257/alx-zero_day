@@ -1,1 +1,1 @@
-my first readme in github
+#!/bin/bash 
